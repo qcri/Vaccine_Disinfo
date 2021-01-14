@@ -1,0 +1,407 @@
+url,protocol,num_queries,path_depth,suspicious_tld,length,entropy,fake_tld,brand,pop_keywords,similar,num_subdomains,asn,org,#queries,#apexes,subnet24
+https://www.pronews.gr/ygeia/913333_emvolio-astrazeneca-poso-tha-diarkesei-i-paysi-ereynon-polla-ta-anapantita-erotimata,https,0,3,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://linktr.ee/smartmedia%20https:/gigazine.net/news/20200910-astrazeneca-covid19-vaccine-neurological-symptoms/,https,0,6,0,9,0.3684628534673422,0,0,0,0,0,AS54113,FASTLY,38144627,864,151.101.2
+https://www.linkedin.com/,https,0,2,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://m.facebook.com/112639733519315/posts/309965157120104/,https,0,5,0,14,0.37989356976525346,0,1,0,1,1,AS32934,FACEBOOK,20087333,15,69.171.250
+https://piemovies.cc/watch/sputnik-2020,https,0,3,1,12,0.38562031562255994,0,0,0,0,0,AS13335,CLOUDFLARENET,10511897,1150,104.24.123
+https://www.abcdacomunicacao.com.br/empatia-e-habitos-saudaveis-para-cuidar-do-coracao-campanha-da-astrazeneca-colore-setembro-de-vermelho/,https,0,3,0,27,0.4190169497182605,0,0,0,0,2,AS27715,Locaweb Servicos de Internet S/A,14885,6,191.252.201
+https://www.pronews.gr/kosmos/diethnis-politiki/913159_npeskof-i-anastoli-ton-klinikon-dokimon-tis-astrazeneca-deihnei-pos,https,0,4,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.122
+http://ame-web.org/index.php/122-2020/1318-astrazeneca-pone-en-suspenso-el-principal-ensayo-de-la-vacuna-covid-19-por-motivos-de-seguridad,http,0,4,0,11,0.409701685930287,0,0,0,0,0,AS198066,"Grupo Loading Systems, S.L.",1318727,341,91.146.96
+https://bildblog.de/123954/bild-schlaegt-impf-alarm/,https,0,4,0,11,0.3642471326583483,0,0,0,0,0,AS13335,CLOUDFLARENET,19524226,1042,104.18.41
+https://cronica.uno/que-tan-avanzada-esta-la-carrera-por-conseguir-una-vacuna-contra-covid-19/,https,0,3,0,11,0.36424713265834835,0,0,0,0,0,AS30148,SUCURI-SEC,8339394,628,192.124.249
+https://www.mulastar.com/2020/09/aliyefanyiwa-jaribio-la-chanjo-ya.html,https,0,4,0,16,0.41597744082077,0,0,0,0,1,AS15169,GOOGLE,31563,13,172.217.214
+https://www.excelsior.com.mx/global/vacuna-de-astrazeneca-oxford-ya-esta-en-produccion/1404273,https,0,4,0,20,0.4183049217994888,0,0,0,0,2,AS22908,"Sixsigma Networks Mexico, S.A. de C.V.",4434739,7,201.175.36
+https://careers.astrazeneca.com/job/royston/senior-data-and-analytics-engineer/7684/15803758,https,0,6,0,23,0.4050660331124927,0,0,0,0,1,AS20940,Akamai International B.V.,8539172,56,23.35.71
+https://consensodelmercado.com/component/k2/el-dinero-busca-refugio-en-el-deuda-publica-y-el-dolar,https,0,4,0,22,0.41248704853381657,0,0,0,0,0,AS8560,1&1 Ionos Se,1697685,1600,217.160.0
+https://mailchi.mp/7ccad2a351a6/4ve5sfzdhh-790838?e=952b24a551,https,1,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://bitly.com/2ZmXTvD%20http:/bit.ly/3k4SkK7%20http:/bit.ly/2DNRx0Y%20http:/bit.ly/2Zn13iZ%20http:/bit.ly/33a2gLD,https,0,10,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://onerazz.com/2020/09/07/australian-prime-minister-scott-morrison-said-his-government-has-struck-a-deal-with-pharmaceutical-giant-csl-to-manufacture-two-potential-vaccines-including-one-developed-by-rival-astrazeneca-and-ex/,https,0,6,0,11,0.38697440929431765,0,0,0,0,0,AS16276,OVH SAS,632113,1120,51.79.176
+https://www.exberliner.com/whats-on/film/exil/,https,0,5,0,18,0.4274227482598221,0,0,0,0,1,AS14618,AMAZON-AES,20583852,191,75.101.132
+https://www.linkedin.com/feed/update/urn:li:share:6709432707669086208,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.linkedin.com/feed/update/urn:li:share:6709586548201021440,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.biotoday.com/view.cfm?n=92482&ref=rss&utm_source=dlvr.it&utm_medium=twitter,https,4,2,0,16,0.41007988164154,0,0,0,0,1,AS23637,Equinix Jpapan Enterprise K.K.,60375,1,112.140.51
+https://www.olivanoticias.com/mundo/137344/vacuna_contra_covid-19_es_posible_este_ano_pese_a_interrupcion_de_ensayos_afirma_astrazeneca,https,0,4,0,21,0.42841666568390874,0,0,0,0,1,AS16276,OVH SAS,4330563,88,142.44.214
+https://www.coronavirusgripe.com/articulo/coronavirus/cancelan-vacuna-oxford-astrazeneca-coronavirus/20200909105458005142.html,https,0,5,0,24,0.4675751972640999,0,0,0,0,1,AS13335,CLOUDFLARENET,5150254,111,104.26.14
+https://yesilgazete.org/blog/2020/09/09/astrazeneca-ve-oxford-universitesi-covid-19-asisinin-klinik-deneyleri-durdurdu/,https,0,7,0,15,0.4320706023176381,0,0,0,0,0,AS13335,CLOUDFLARENET,1892291,1046,172.67.165
+http://www.en-vivo.mx/2020/09/09/astrazeneca-interrumpe-los-ensayos-de-su-vacuna-tras-la-reaccion-adversa-de-un-participante/,http,0,6,0,14,0.39775070955127756,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,141989,23,23.229.130
+http://www.ciudadelatacungaonline.com/index.php/component/k2/item/4733-astrazeneca-interrumpe-ensayos-de-vacuna-por-enfermedad-adversa-de-un-participante,http,0,6,0,30,0.46225857075538207,0,0,1,0,1,AS22612,NAMECHEAP-NET,1872542,715,198.54.115
+https://www.linkedin.com/feed/update/urn:li:share:6709806636401233921,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://libero.pe/ocio/1578355-coronavirus-nicolas-maduro-anuncio-sera-vacunarse-covid-19-venezuela-vacuna-rusa-sputnik,https,0,3,0,9,0.3684628534673422,0,0,0,0,0,AS54113,FASTLY,49744510,287,151.101.2
+https://www.elsoldesalamanca.com.mx/mundo/rusia-produce-mas-de-15-mil-dosis-de-su-vacuna-contra-covid-19-sputnik-v-5639668.html,https,0,3,0,27,0.43223339918357917,0,0,0,0,2,AS16509,AMAZON-02,956122,690,13.249.130
+https://bityl.co/html/Hacker.html,https,0,3,0,8,0.375,0,0,0,0,0,AS54113,FASTLY,2353159,825,151.101.1
+https://www.medcom.id/internasional/eropa-amerika/1bVj32ab-who-berdiskusi-dengan-rusia-mengenai-vaksin-sputnik-v,https,0,4,0,13,0.35914257288955465,0,0,0,0,1,AS45734,PT Media Televisi Indonesia,508206,2,103.225.66
+https://www.canalantigua.tv/astrazeneca-incluye-a-peru-en-ensayo-en-fase-3-de-vacuna-contra-el-covid-19-segun-el-gobierno/,https,0,3,0,19,0.40760351477321916,0,0,0,0,1,AS13335,CLOUDFLARENET,5702678,1108,104.27.186
+https://pharmaphorum.com/news/gsk-steals-march-on-az-after-triple-therapy-trelegy-us-asthma-approval/,https,0,4,0,16,0.38472744082077,0,0,0,0,0,AS15395,Rackspace Ltd.,457412,3,134.213.252
+https://www.pronews.gr/ygeia/farmaka/913027_emvolio-astrazeneca-anastellontai-oi-ereynes-asthenis-paroysiase-sovari,https,0,4,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://www.linkedin.com/feed/update/urn:li:share:6706957508000530432,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+http://www.radiovillamaria.com/vivo.html,http,0,2,0,23,0.415935598329884,0,0,0,0,1,AS27823,Dattatec.com,235598,1032,200.58.111
+https://peru21.pe/ciencia/vacuna-contra-el-covid-astrazeneca-dice-que-vacuna-es-aun-posible-este-ano-pese-a-pausa-en-ensayos-coronavirus-pascal-soriot-universidad-de-oxford-nndc-noticia/,https,0,4,0,9,0.3406850756895644,0,0,0,0,0,AS20940,Akamai International B.V.,392261,46,104.76.198
+https://act.webull.com/kol-us/share.html?inviteCode=xhqtVXlWzqZr&source=main,https,2,3,0,14,0.42234791389958865,0,0,0,0,1,AS16509,AMAZON-02,4615189,1862,13.226.18
+https://www.imfarmacias.es/noticia/21519/astrazeneca-y-oxford-paralizan-el-ensayo-de-su-vacuna-contra-el-coronavirus---.html?sus=Email&utm_source=news_2020-09-10&utm_medium=IMFarmacias&utm_campaign=productos-farmacia,https,4,4,0,18,0.3996449704820444,0,0,0,0,1,AS16371,"acens Technologies, S.L.",45651,5,81.46.217
+https://www.annurtv.com/nota/59482-salud-astrazeneca-detiene-pruebas-de-fase-3-de-vacuna-contra-covid-19.html,https,0,3,0,15,0.4154039356509715,0,0,0,0,1,AS13335,CLOUDFLARENET,2768130,1022,172.67.195
+https://www.covid19infos.info/post/astrazeneca-signs-deal-with-albany-molecular-to-produce-covid-19-vaccine-candidate,https,0,3,1,21,0.42841666568390857,0,0,0,0,1,AS58182,Wix.com Ltd.,25526375,295,185.230.60
+https://canal7salta.com/2020/09/09/argentina-astrazeneca-detiene-pruebas-de-su-vacuna-contra-el-covid-19/,https,0,6,0,15,0.38836132637606186,0,0,0,0,0,AS47583,Hostinger International Limited,3071,1,45.132.243
+https://bitly.com/35hGjNx%20https:/bit.ly/2ZkZLVF,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://cnnespanol.cnn.com/video/mexico-pruebas-voluntarios-tercera-etapa-pruebas-vacuna-sputnik-v-marcelo-ebrard-protocolos-sanitarios-evaluacion-requena-panorama-cnne/,https,0,4,0,18,0.3798202962840664,0,0,0,0,1,AS2635,AUTOMATTIC,6724110,110,192.0.66
+https://magnesianews.gr/perissotera/kosmos/koronoios-emvolio-poy-vriskomaste-stin-pagkosmia-ereyna-meta-to-pagoma-tis-astrazeneca.html,https,0,4,0,15,0.40502799877548346,0,0,0,0,0,AS13335,CLOUDFLARENET,3724265,1081,104.31.92
+https://hombresdelpoder.com/noticia.php?id=65071,https,1,2,0,19,0.428952942016683,0,0,0,0,0,AS23352,SERVERCENTRAL,254883,574,216.246.112
+https://www.covid-19worldstats.com/news/AstraZeneca-suspends-trials-of-COVID-19-vaccine,https,0,3,0,26,0.47815645050035044,0,0,0,0,1,AS20857,Transip B.V.,48038,15,37.97.159
+http://www.todanoticia.com/85287/coronavirus-astrazeneca-interrumpe-ensayos-vacuna/,http,0,4,0,19,0.40263715254299887,0,0,0,0,1,AS30083,AS-30083-GO-DADDY-COM-LLC,2447083,549,207.38.94
+http://www.israel-nachrichten.org/archive/48490,http,0,3,0,26,0.4745271833131321,0,0,0,0,1,AS32748,STEADFAST,1934086,843,162.210.96
+https://bitly.com/32dOyZ8%20http:/bit.ly/2Ff5B42%20http:/bit.ly/2FeYmJr%20http:/bit.ly/2ZBAjvx,https,0,8,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+http://plazademayo.info/inmunologa-israeli-sputnik-v-garantizaria-una-inmunidad-mas-estable-que-la-vacuna-de-oxford/,http,0,3,1,16,0.44722744082077,0,0,0,0,0,AS27823,Dattatec.com,397370,164,200.58.111
+https://www.linkedin.com/feed/update/urn:li:share:6709560280701112320,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.elcorreogallego.es/primer-plano/astrazeneca-detiene-el-ensayo-de-su-vacuna-contra-el-covid-19-por-la-aparicion-de-una-enfermedad-inexplicable-CB4517271,https,0,3,0,22,0.39683427529012694,0,0,0,0,1,AS31898,ORACLE-BMC-31898,56455,6,130.61.65
+https://www.elsoldemexico.com.mx/mexico/politica/mexico-activa-plan-b-para-conseguir-vacuna-contra-covid-19-coronavirus-astrazeneca-rusia-sputnik-v-5740104.html,https,0,4,0,24,0.4180451183584601,0,0,0,0,2,AS16509,AMAZON-02,982881,691,13.249.130
+https://eltubazodigital.com/nacionales/sputnik-v-500-venezolanos-seran-voluntarios-en-la-fase-3-de-la-vacuna-rusa/2020/08/22/,https,0,7,0,19,0.4652014559508079,0,0,0,0,0,AS46606,UNIFIEDLAYER-AS-1,6241,2,96.125.171
+https://pink.pharmaintelligence.informa.com/PS142876/AstraZenecas-COVID19-Vaccine-On-Hold-A-Reminder-Product-Development-Is-Never-Straightforward,https,0,3,0,35,0.48037628452613124,0,0,0,0,2,AS13335,CLOUDFLARENET,1873749,1,104.16.255
+https://covid19globalcases.com/coronavirus-vaccine-uk-drugmaker-astrazeneca-begins-final-stage-of-us-trials/,https,0,3,0,22,0.4693052342606951,0,0,0,1,0,AS62729,ASMALLORANGE1,377135,223,143.95.80
+https://www.upatadigital.com.ve/2020/09/farmaceutica-astrazeneca-suspende.html,https,0,4,0,23,0.46618077455302837,0,0,0,0,2,AS15169,GOOGLE,31563,13,172.217.214
+https://wiod.iheart.com/content/2020-09-09-astrazeneca-coronavirus-vaccine-trial-on-hold-after-unexpected-illness/,https,0,4,0,15,0.4383613321088168,0,0,0,0,1,AS54113,FASTLY,35639171,1,199.232.210
+https://bitly.com/33awmPg%20https:/bit.ly/35iSgCx,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://regeneracion.mx/la-seguridad-es-pilar-en-la-busqueda-de-la-vacuna-oms-sobre-pausa-de-astrazeneca/,https,0,3,0,15,0.4154039356509715,0,0,0,0,0,AS13335,CLOUDFLARENET,7394345,1019,104.27.186
+https://themalaysianreserve.com/2020/08/18/sputnik-talks-on-margin-trading-curbs-wipe-rm34b-of-glove-stocks-value/,https,0,6,0,23,0.46351650906326136,0,0,0,0,0,AS13335,CLOUDFLARENET,2648277,1050,104.31.78
+https://lobservateur.info/us-round-up-du-mercredi-9-septembre-big-pharma-jumbo-jet-tom-cruise-astrazeneca-papa-maman/,https,0,3,1,17,0.46681520403515814,0,0,0,0,0,AS13335,CLOUDFLARENET,1211759,1033,172.67.137
+https://www.diarioelmundo.com.mx/index.php/2020/08/21/en-septiembre-llega-vacuna-sputnik-v/,https,0,7,0,24,0.45322682447794665,0,0,0,0,2,AS13335,CLOUDFLARENET,2640072,1096,172.67.158
+https://www.linkedin.com/feed/update/urn:li:share:6706688437933658112,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.linkedin.com/feed/update/urn:li:share:6709379799611125760,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.linkedin.com/feed/update/urn:li:share:6709518615860932608,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://gofirstnews.com/astrazeneca-begins-coronavirus-vaccine-section-three-medical-trials-in-us/,https,0,3,0,15,0.45502799877548344,0,0,0,0,0,AS47583,Hostinger International Limited,26068,694,45.87.81
+https://www.amazon.com/,https,0,2,0,14,0.36203642997922936,0,1,0,1,1,AS16625,AKAMAI-AS,360504,2,23.34.66
+http://www.ecuadorenvivo.com/internacional/37-/128303-vacuna-de-astrazeneca-y-oxford-contra-la-covid-19-ponen-en-pausa-rutinaria-las-pruebas-por-un-caso-de-reaccion-adversa-bbc-mundo-de-londres.html,http,0,4,0,21,0.44481480293982234,0,0,0,0,1,AS27947,Telconet S.A,1920515,2,181.39.8
+http://plazademayo.info/el-telefono-se-colapsa-embajador-ruso-habla-del-gran-interes-de-argentina-por-la-vacuna-sputnik-v/,http,0,3,1,16,0.44722744082077,0,0,0,0,0,AS27823,Dattatec.com,397370,164,200.58.111
+https://actualidad.rt.com/actualidad/364353-rusia-dar-luz-verde-pruebas-vacuna-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,482572,1,37.48.108
+https://radiovillamaria.com.ar/astrazeneca-paus%E2%80%A6ntra-el-covid-19/%20%E2%80%8E,https,0,3,0,22,0.3919777256279477,0,0,0,0,1,AS27823,Dattatec.com,235598,1032,200.58.111
+https://www.linkedin.com/feed/update/urn:li:share:6709514040433008640,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://magnesianews.gr/ellada/sypsas-kalo-neo-i-anastoli-ton-dokimon-toy-emvolioy-tis-astrazeneca.html,https,0,3,0,15,0.40502799877548346,0,0,0,0,0,AS13335,CLOUDFLARENET,3724396,1081,104.31.93
+https://www.ticbeat.com/innovacion/problemas-y-riesgos-de-la-vacuna-rusa-sputnik-v/,https,0,4,0,15,0.39873726898430484,0,0,0,0,1,AS16509,AMAZON-02,164095,1,3.9.64
+http://ow.ly/yrwN50BlOPm%20http:/ow.ly/hfcE50BlORr,http,0,4,0,5,0.2902410164862569,0,0,0,0,0,AS16509,AMAZON-02,219790839,7,54.67.57
+https://bitly.com/350TOB7%20https:/bit.ly/31YCbQc%20https:/bit.ly/3lSfANd,https,0,6,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://www.todosahora.com/noticias-internacionales/astrazeneca-incluyo-a-peru-para-ensayo-en-fase-3-de-la-vacuna-contra-la-covid-19/,https,0,4,0,18,0.4048872453080266,0,0,0,0,1,AS30148,SUCURI-SEC,4298148,686,192.124.249
+http://www.todanoticia.com/85221/buscan-30-mil-voluntarios-estados/,http,0,4,0,19,0.40263715254299887,0,0,0,0,1,AS30083,AS-30083-GO-DADDY-COM-LLC,2447083,549,207.38.94
+https://www.covid-19worldstats.com/news/AstraZeneca-down-after-report-that-Covid-19-vaccine-is-put-on-hold,https,0,3,0,26,0.47815645050035044,0,0,0,0,1,AS20857,Transip B.V.,48038,15,37.97.159
+https://www.csl.com/news/2020/20200907-csl-to-manufacture-and-supply-uq-and-ou-vaccine-candidates-for-australia,https,0,4,0,11,0.33294159007966545,0,0,0,0,1,AS17033,CSL-BEHRING,101403,18,12.3.33
+https://www.ouest-france.fr/sante/vaccin/covid-19-astrazeneca-juge-possible-un-vaccin-contre-le-virus-cette-annee-malgre-la-pause-6968354,https,0,4,0,19,0.4470771989837455,0,0,0,0,1,AS16625,AKAMAI-AS,38,2,69.192.52
+https://lobservateur.info/vaccins-anti-covid-19-astrazeneca-jette-leponge-et-spoutnik-v-serait-pret-video/,https,0,3,1,17,0.46681520403515814,0,0,0,0,0,AS13335,CLOUDFLARENET,3142447,1034,104.18.49
+https://www.radio.com/kcbsradio/articles/radiocom/astrazeneca-puts-covid-vaccine-testing-on-hold,https,0,5,0,13,0.37837334212032386,0,0,0,0,1,AS54113,FASTLY,12102175,2,199.232.194
+https://www.astratv.gr/2020/09/09/%CE%B5%CE%B3%CE%BA%CE%AC%CF%81%CF%83%CE%B9%CE%B1-%CE%BC%CF%85%CE%B5%CE%BB%CE%AF%CF%84%CE%B9%CE%B4%CE%B1-%CF%80%CE%BF%CE%B9%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%B7-%CE%BD%CF%8C%CF%83%CE%BF%CF%82/,https,0,6,0,14,0.36203642997922936,0,0,0,0,1,AS24940,Hetzner Online GmbH,24499,3,188.40.84
+https://www.covid19infos.info/post/matt-hancock-says-uk-likely-to-have-coronavirus-vaccine-by-early-next-year,https,0,3,1,21,0.42841666568390857,0,0,0,0,1,AS58182,Wix.com Ltd.,13163060,264,185.230.60
+https://mailchi.mp/3fa3cde81895/dialoguemos-12697970,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://www.canalantigua.tv/paciente-en-ensayo-de-astrazeneca-desarrollo-problema-de-medula-espinal/,https,0,3,0,19,0.40760351477321916,0,0,0,0,1,AS13335,CLOUDFLARENET,2741865,1106,172.67.136
+https://gmnoticias.mx/segundo-voluntario-de-vacuna-de-astrazeneca-presenta-reaccion-adversa/,https,0,3,0,13,0.4240934099952612,0,0,0,0,0,AS30148,SUCURI-SEC,8339394,628,192.124.249
+https://cutt.ly/MfR4L0V%20https:/cutt.ly/bfR4ClY,https,0,4,0,7,0.3152050690412065,0,0,0,0,0,AS13335,CLOUDFLARENET,3690445,20,104.22.1
+https://www.elciudadanoweb.com/coronavirus-el-laboratorio-astrazeneca-freno-las-pruebas-de-la-vacuna-por-posibles-efectos-adversos/,https,0,3,0,22,0.44379259502119617,0,0,0,0,1,AS13335,CLOUDFLARENET,5520919,80,104.26.15
+https://www.clinica-aeromedica.net/ambiente/covid-19-expertos-contra-el-panico/,https,0,4,0,26,0.4540239971360921,0,0,0,0,1,AS56732,Hostinet S.l.u.,5235,70,185.101.226
+https://www.linkedin.com/feed/update/urn:li:share:6707225903912513537,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://puntodecorte.com/conozca-la-razon-por-la-que-astrazeneca-interrumpio-ensayos-de-la-vacuna-contra-covid-19/,https,0,3,0,16,0.41597744082077,0,0,0,0,0,AS19551,INCAPSULA,912189,78,45.60.22
+https://www.elsoldezacatecas.com.mx/mundo/rusia-produce-mas-de-15-mil-dosis-de-su-vacuna-contra-covid-19-sputnik-v-5639668.html,https,0,3,0,27,0.4472570678181096,0,0,0,0,2,AS16509,AMAZON-02,924324,652,13.249.130
+https://news.v.daum.net/v/20200824090606831,https,0,3,0,15,0.4154039356509715,0,0,0,0,2,AS9457,DREAMLINE CO.,4556822,2,121.53.224
+https://actualidad.rt.com/actualidad/363822-vacuna-sputnik-no-efectos-secundarios-graves?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://libero.pe/ocio/1579150-coronavirus-peru-embajada-rusia-ofrece-vacuna-sputnik-v-covid-19-essalud-minsa,https,0,3,0,9,0.3684628534673422,0,0,0,0,0,AS54113,FASTLY,49742579,285,151.101.194
+https://www.id-hub.com/2020/09/09/astrazeneca-vaccine-trial-halted/?utm_campaign=Infectious%20Diseases%20Hub&utm_content=139504317&utm_medium=social&utm_source=twitter&hss_channel=tw-792029764525711360,https,5,6,0,14,0.4156078493373016,0,0,0,1,1,AS13335,CLOUDFLARENET,8127562,71,172.67.71
+https://www.elidealgallego.com/articulo/espana/astrazeneca-interrumpe-ensayos-vacuna-coronavirus/20200910011339444879.html,https,0,5,0,22,0.41248704853381657,0,0,0,0,1,AS13335,CLOUDFLARENET,41593,6,104.24.188
+http://ow.ly/CQky50B5qk8%20http:/ow.ly/aaUL50B5qih,http,0,4,0,5,0.2902410164862569,0,0,0,0,0,AS16509,AMAZON-02,219790684,7,54.67.120
+https://www.cnnturk.com/turkiye/topkapida-metrobus-yaniyor,https,0,3,0,15,0.39873726898430484,0,0,0,0,1,AS16276,OVH SAS,2837531,2,51.81.66
+http://www.everybodygoesblog.com/2020/08/review-sputnik-science-fiction-horror.html,http,0,4,0,25,0.45293315722309924,0,0,0,0,1,AS15169,GOOGLE,130328,6,108.177.121
+https://www.linkedin.com/feed/update/urn:li:share:6709528538124484608,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://actualidad.rt.com/actualidad/363995-venezuela-aportara-500-voluntarios-vacuna-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://bitly.com/KTARListen%20https:/bit.ly/3habUDb,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://bitly.com/32ao0rB%20https:/bit.ly/32ao0rB,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.linkedin.com/feed/update/urn:li:share:6709150625986293760,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.gazeta.ru/,https,0,2,0,13,0.37837334212032386,0,0,0,0,1,AS24638,Rambler Internet Holding LLC,13646786,24,81.19.72
+https://bitly.com/3iqDEoc%20https:/bit.ly/3iqDEoc,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://business.facebook.com/409448779258925/posts/1357103711160089/?_fb_noscript=1,https,1,5,0,21,0.44481480293982223,0,1,0,1,1,AS32934,FACEBOOK,30700836,297,157.240.18
+https://actualidad.rt.com/actualidad/363821-instruccion-vacuna-rusa-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://www.olivanoticias.com/mundo/137250/ensayos_de_vacuna_covid-19_de_astrazeneca_podrian_reanudarse_la_proxima_semana_segun_financial_times,https,0,4,0,21,0.42841666568390874,0,0,0,0,1,AS16276,OVH SAS,4330563,88,142.44.214
+https://elcomercio.pe/mundo/venezuela/coronavirus-venezuela-participara-con-500-voluntarios-en-fase-iii-de-vacuna-rusa-sputnik-v-contra-el-covid-19-vladimir-putin-nicolas-maduro-rusia-noticia/,https,0,5,0,13,0.37837334212032386,0,0,0,0,0,AS20940,Akamai International B.V.,292299,47,104.76.198
+https://actualidad.rt.com/actualidad/364046-embajador-ruso-argentina-interes-vacuna?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://www.viportal.co/business/astrazeneca-vaccine-tests-face-delay-after-patient-gets-ill/?utm_source=dlvr.it&utm_medium=twitter,https,2,4,0,15,0.4154039356509715,0,0,1,0,1,AS20473,AS-CHOOPA,67615,13,209.250.225
+https://www.correiodopovo.com.br/not%C3%ADcias/geral/vacina-ainda-%C3%A9-poss%C3%ADvel-este-ano-apesar-da-interrup%C3%A7%C3%A3o-dos-testes-afirma-astrazeneca-1.478260,https,0,4,0,24,0.40762845169179335,0,0,0,0,2,AS52580,Azion Technologies Ltda.,4313411,13,179.191.189
+https://www.biotoday.com/view.cfm?n=92468,https,1,2,0,16,0.41007988164154,0,0,0,0,1,AS23637,Equinix Jpapan Enterprise K.K.,60375,1,112.140.51
+https://www.linkedin.com/feed/update/urn:li:share:6709563881674694656,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.webwire.com/ViewPressRel.asp?aId=263488&utm_source=dlvr.it&utm_medium=twitter,https,3,2,0,15,0.3582809932800646,0,0,0,0,1,AS36351,SOFTLAYER,621818,3,169.53.35
+https://www.linkedin.com/feed/update/urn:li:share:6709400902815543296,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+http://www.detaykibris.com/oxford-ve-astrazenecanin-covid-19-asi-calismalari-askiya-alindi-229725h.htm?utm_source=dlvr.it&utm_medium=twitter,http,2,2,0,19,0.4733929884574297,0,0,0,1,1,AS42926,Radore Veri Merkezi Hizmetleri A.S.,264379,1,185.135.220
+https://quequi.com.mx/rusia-enviara-2-mil-dosis-de-vacuna-contra-covid-19-sputnik-a-mexico-ebrard/,https,0,3,0,13,0.3856318715337227,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,3634054,215,198.71.190
+https://scrip.pharmaintelligence.informa.com/SC142932/AstraZenecas-COVID-Vaccine-On-Hold-A-Reminder-Drug-Development-Is-Never-Straightforward,https,0,3,0,36,0.48205933602084877,0,0,0,0,2,AS13335,CLOUDFLARENET,1873749,1,104.16.255
+https://www.marketwatch.com/story/astrazeneca-vaccine-most-likely-to-roll-out-in-the-uk-early-next-year-2020-09-07,https,0,3,0,19,0.41256987700343944,0,0,0,0,1,AS16509,AMAZON-02,6060356,1762,13.226.18
+https://www.starfm.co.ke/xaaladaha-coronavirus-ee-ruushka-oo-kor-u-dhaafay-960000/,https,0,3,0,16,0.42570488164154,0,0,0,0,2,AS46562,TOTAL-SERVER-SOLUTIONS,732807,240,199.58.184
+http://livingpgh.com/news/astrazeneca-coronavirus-vaccine-testing-on-hold?uid=38392,http,1,3,0,13,0.4240934099952612,0,0,0,0,0,AS26496,AS-26496-GO-DADDY-COM-LLC,3484831,1299,107.180.50
+https://actualidad.rt.com/actualidad/363897-mexico-ensayos-vacuna-rusa-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS30633,LEASEWEB-USA-WDC,223006,1,207.244.80
+https://www.elsoldechilpancingo.mx/2020/09/09/astra-zeneca-suspende-ensayos-de-su-vacuna-contra-el-covid-19/,https,0,6,0,26,0.4841425679285167,0,0,0,0,1,AS13335,CLOUDFLARENET,3539891,1064,104.31.75
+https://www.iatronet.gr/eidiseis-nea/epistimi-zwi/news/57531/astrazeneca-gia-emvolio-kata-sars-cov-2-synithis-energeia-oi-anastoles-dokimwn.html,https,0,6,0,15,0.39873726898430484,0,0,0,0,1,AS13335,CLOUDFLARENET,632110,41,104.26.10
+https://www.linkedin.com/feed/update/urn:li:share:6709364529718939648,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://eltubazodigital.com/vida-y-salud/enfermedad-inexplicable-astrazeneca-interrumpio-ensayos-de-su-vacuna-contra-el-covid-19/2020/09/09/,https,0,7,0,19,0.4652014559508079,0,0,0,0,0,AS46606,UNIFIEDLAYER-AS-1,6241,2,96.125.171
+https://www.linkedin.com/feed/update/urn:li:share:6701209108458086400,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.omanobserver.om/astrazeneca-suspends-vaccine-trials-after-participants-illness/,https,0,3,0,19,0.41579504727984096,0,0,0,0,1,AS201684,Oman Data Park LLC,218838,4,185.64.26
+https://covid19vaccinetrial.co.uk/,https,0,2,0,25,0.4767075950978065,0,0,0,0,1,AS16509,AMAZON-02,18360,5,54.72.30
+http://snip.ly/26nrag?utm_source=dlvr.it&utm_medium=twitter,http,2,2,0,7,0.35091935475549224,0,0,0,0,0,AS13335,CLOUDFLARENET,10044775,90,104.26.7
+https://www.linkedin.com/feed/update/urn:li:share:6707519544820301824,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.copernical.com/news-public/item/18721-2020-08-25-13-56-05,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS8560,1&1 Ionos Se,2994552,2556,217.160.0
+https://coronaviruscall.com/why-a-pause-on-astrazenecas-coronavirus-vaccine-trial-isnt-entirely-bad-news/,https,0,3,0,19,0.428952942016683,0,0,0,0,0,AS20068,HAWKHOST,1113431,1338,198.252.102
+https://elcomercio.pe/tecnologia/ciencias/coronavirus-nueve-desarrolladores-de-potenciales-vacunas-contra-el-covid-19-prometen-rigor-cientifico-astrazeneca-johnson-johnson-moderna-pfizer-nndc-noticia/,https,0,5,0,13,0.37837334212032386,0,0,0,0,0,AS20940,Akamai International B.V.,182736,31,104.76.198
+https://prismaradio.gr/2020/09/09/astrazeneca-koronoios-emvolio-i-anastoli-dokimon-den-simainei-mataiosi-ereynon/,https,0,6,0,14,0.39775070955127756,0,0,0,0,0,AS24940,Hetzner Online GmbH,620,4,78.46.67
+https://www.linkedin.com/feed/update/urn:li:share:6709542498466885632,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.linkedin.com/feed/update/urn:li:share:6707941330934349824,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://seekingalpha.com/news/3610314-astrazeneca-starts-u-s-final-stage-trial-of-covidminus-19-vaccine?utm_source=smartnews.com&utm_medium=referral,https,2,3,0,16,0.46875,0,0,0,0,0,AS54113,FASTLY,540350829,10,151.101.130
+https://www.amna.gr/home/article/486423/-I-anastoli-dokimon-tou-emboliou-tis-AstraZeneca-enischuse-tis-amfibolies-gia-grigori-diathesi-tou,https,0,5,0,11,0.33294159007966545,0,0,0,0,1,AS20940,Akamai International B.V.,13503,4,184.25.123
+https://api.whatsapp.com/,https,0,2,0,16,0.41007988164154,0,0,0,0,1,AS32934,FACEBOOK,11782411,4,157.240.2
+https://www.jornalcotidiano.com.br/noticia/699/agncia-inglesa-diz-que-revisar-testes-da-astrazeneca-para-covid-19,https,0,4,0,26,0.45529641408236277,0,0,0,0,2,AS13335,CLOUDFLARENET,1384815,1102,172.67.154
+https://www.linkedin.com/feed/update/urn:li:share:6709533221991915520,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.ouest-france.fr/sante/vaccin/coronavirus-astrazeneca-suspend-les-essais-cliniques-de-son-vaccin-6966023,https,0,4,0,19,0.4470771989837455,0,0,0,0,1,AS16625,AKAMAI-AS,38,2,69.192.52
+https://www.linkedin.com/feed/update/urn:li:share:6706899502860668929,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+http://cadenapolitica.com/2020/08/25/mexico-participara-en-la-fase-3-de-la-vacuna-rusa-sputnik-v/,http,0,6,0,18,0.4274227482598221,0,0,0,0,0,AS46606,UNIFIEDLAYER-AS-1,9941,1,162.214.99
+https://taplink.cc/system/challenge.html,https,0,3,1,10,0.39024101648625686,0,0,0,0,0,AS13335,CLOUDFLARENET,3247934,82,172.67.73
+https://nicaraguainvestiga.com/nacion/27828-nicaragua-empezara-produccion-de-vacuna-rusa-contra-el-covid-19-a-finales-de-2020/,https,0,4,0,22,0.45086709450477913,0,0,0,0,0,AS13335,CLOUDFLARENET,2683416,91,172.67.72
+https://www.ilriformista.it/coronavirus-sospesi-i-test-sul-vaccino-di-astrazeneca-oxford-reazione-anomala-154263/?refresh_ce,https,1,3,0,19,0.40760351477321916,0,0,0,0,1,AS52030,Server Plan S.r.l.,10900,2,93.95.216
+https://www.informaoriente.com.mx/salud/comienzan-pruebas-masivas-de-la-vacuna-de-oxford-y-astrazeneca.html,https,0,3,0,25,0.44538428147368486,0,0,0,0,2,AS15169,GOOGLE,116,2,35.203.15
+http://newsmobile.in/articles/2020/09/09/astrazeneca-puts-covid-19-vaccine-trials-on-hold-after-unexpected-illness-in-volunteer/,http,0,7,0,13,0.40486264076449197,0,0,0,0,0,AS13335,CLOUDFLARENET,18959953,1024,104.27.129
+https://news.v.daum.net/v/20200515060036516,https,0,3,0,15,0.4154039356509715,0,0,0,0,2,AS9457,DREAMLINE CO.,4556822,2,121.53.224
+https://www1.folha.uol.com.br/equilibrioesaude/2020/08/russos-querem-usar-brasil-e-outros-tres-paises-como-base-para-a-producao-da-vacina-sputnik-v.shtml?utm_source=twitter&utm_medium=social&utm_campaign=comptw,https,3,5,0,21,0.4329100451298853,0,0,0,0,3,AS7162,Universo Online S.A.,18999331,2,200.147.36
+https://www.lavozdemichoacan.com.mx/pais/mexico-ya-tiene-voluntarios-para-realizar-la-fase-3-de-vacuna-rusa-sputnik-v/,https,0,4,0,27,0.46228073645263984,0,0,0,0,2,AS8560,1&1 Ionos Se,98518,2,50.21.183
+http://ow.ly/IRwJp%20http:/dlvr.it/Rfqpsw,http,0,4,0,5,0.2902410164862569,0,0,0,0,0,AS16509,AMAZON-02,219790839,7,54.67.57
+https://www1.folha.uol.com.br/erro/404/,https,0,4,0,21,0.4329100451298853,0,0,0,0,3,AS7162,Universo Online S.A.,18999331,2,200.147.36
+https://www.cnnturk.com/amp/turkiye/topkapida-metrobus-yaniyor,https,0,4,0,15,0.39873726898430484,0,0,0,0,1,AS16276,OVH SAS,2837531,2,51.81.66
+https://www.covid19infos.info/post/astrazeneca-s-vaccine-trial-is-put-on-hold,https,0,3,1,21,0.42841666568390857,0,0,0,0,1,AS58182,Wix.com Ltd.,45580572,404,185.230.60
+https://www.uol.com.br/vivabem/noticias/redacao/2020/09/08/fiocruz-diz-que-estudo-atrasara-apos-reacao-adversa-de-vacina.htm?cmpid=copiaecola,https,1,8,0,14,0.3731535052029665,0,0,0,0,2,AS16509,AMAZON-02,989592,702,13.249.130
+https://www.amna.gr/health/article/486200/Covid-19---Embolio-Entos-oligon-imeron-i-apofasi-gia-to-programma-dokimon-tou-emboliou-tis-AstraZeneca,https,0,5,0,11,0.33294159007966545,0,0,0,0,1,AS20940,Akamai International B.V.,4302461,4,23.48.94
+http://ow.ly/cVrU30r5N71%20http:/ow.ly/WPmU30r5N73,http,0,4,0,5,0.2902410164862569,0,0,0,0,0,AS16509,AMAZON-02,219658867,7,54.67.62
+https://punjabkesari.com/india-news/russia-seeks-cooperation-with-india-in-manufacturing-its-corona-vaccine-sputnik-v-/,https,0,4,0,16,0.484375,0,0,0,0,0,AS13335,CLOUDFLARENET,66020,1,104.20.66
+https://imefi.tv/general/para-tu-marca-tu-marcas-la-diferencia/,https,0,4,0,8,0.34375,0,0,0,0,0,AS36024,AS-TIERP-36024,16494,112,65.99.225
+https://www.covid-19worldstats.com/news/Coronavirus-vaccine-Astrazeneca-launching-late-stage-COVID-19-trial,https,0,3,0,26,0.47815645050035044,0,0,0,0,1,AS20857,Transip B.V.,48038,15,37.97.159
+https://classepolitica.com.br/2020/09/10/ministerio-da-saude-diz-que-contrato-com-astrazeneca-nao-sera-alterado/,https,0,6,0,21,0.4493081782909739,0,0,0,1,1,AS33182,DIMENOC,486893,162,107.161.183
+https://web.archive.org/web/20200819141034/https:/proudboysusa.com/proud-boys-michigan-chapters-official-statement-kalamazoo-august-15th/,https,0,7,0,15,0.4383613321088168,0,0,0,0,1,AS7941,INTERNET-ARCHIVE,30849849,3,207.241.226
+https://ns2017.wordpress.com/2020/08/16/sputnik-comment-empecher-les-migrants-de-passer-de-france-en-angleterre/,https,0,6,0,20,0.47302296914287273,0,0,0,0,1,AS2635,AUTOMATTIC,40919698,1259,192.0.78
+https://niezalezna.pl/0,https,0,2,0,13,0.36640110230295353,0,0,0,0,0,AS16276,OVH SAS,1808150,2,188.165.21
+https://upflow.co/l/RRN3/industry/healthcare/biotech/healthcare/indian-pharma-producers-show-great-interest-in-covid-19-vaccine-sputnik-v-russia/articleshow/77561370.cms,https,0,10,0,9,0.3684628534673422,0,0,0,0,0,AS14061,DIGITALOCEAN-ASN,285766,2,45.55.116
+https://dikaioma.gr/koronoios-diakopikan-i-dokimes-tou-emvoliou-tis-oxfordis-anexigiti-asthenia-se-ethelonti-lei-i-astrazeneca/,https,0,3,0,11,0.38697440929431765,0,0,0,0,0,AS24940,Hetzner Online GmbH,5546,5,213.133.102
+https://koronavirusu.org/rusyanin-sputnik-v-asisi-onumuzdeki-hafta-40-bin-kisiye-uygulanacak/,https,0,3,0,16,0.41007988164154,0,0,0,0,0,AS51167,Contabo GmbH,23783,8,144.91.68
+https://www.pronews.gr/ygeia/farmaka/913130_poy-gia-emvolio-tis-astrazeneca-pano-ap-ola-i-asfaleia-kai-i-sigoyria,https,0,4,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.122
+http://tatar-congress.org/ru/yanalyklar/video-aydar-galimov-priglashaet-na-prazdnik-v-g-sputnik/,http,0,5,0,18,0.4187761341969154,0,0,0,0,0,AS62222,QuickSoft LLC,5709,8,185.75.47
+https://2001online.com/coronavirus-al-dia/236812/astrazeneca-interrumpe-ensayos-de-vacuna-contra-la-covid-19-por-seguridad.html,https,0,4,0,14,0.42234791389958853,0,0,1,0,0,AS13335,CLOUDFLARENET,3391891,1049,172.67.128
+https://bitly.com/329VTsq%20https:/twitter.com/EU_Health/status/1303637508723560448,https,0,6,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://www.fuentesfidedignas.com.mx/portal2018/index.php/nota-principal-1/16219-insiste-astrazeneca-vacuna-contra-covid-19-a-final-de-ano,https,0,5,0,28,0.4836663884847296,0,0,0,0,2,AS8560,1&1 Ionos Se,93581,2,74.208.98
+https://www.pronews.gr/ygeia/farmaka/913401_nea-anakoinosi-apo-tin-astrazeneca-gia-pagoma-ton-klinikon-dokimon-toy-emvolioy,https,0,4,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://www.ta3.com/clanok/1190728/evidujeme-desiatky-novych-pripadov-najviac-hlasi-bratislava.html,https,0,4,0,11,0.3556688667156348,0,0,0,0,1,AS48304,Digmia s.r.o.,140880,2,46.231.96
+https://www.atb.com.bo/internacional/por-qu%C3%A9-la-suspensi%C3%B3n-de-las-pruebas-de-la-vacuna-de-astrazeneca-no-es-una-mala-noticia,https,0,3,0,14,0.35529636541694243,0,0,0,0,2,AS54290,HOSTWINDS,43023,1,23.254.144
+https://radionicaragua.com.ni/laboratorio-confirma-ensayos-clinicos-de-vacuna-contra-covid-19-en-peru,https,0,2,0,21,0.41359389667151325,0,0,0,0,1,AS13335,CLOUDFLARENET,5745054,106,104.26.8
+https://www.mexnewz.mx/vacuna-contra-covid-19-podria-estar-lista-a-finales-de-2020-asegura-astrazeneca/,https,0,3,0,14,0.3330622088272306,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,726757,310,107.180.2
+https://www.linkedin.com/feed/update/urn:li:share:6708741742981627904,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://gnomionline.com.cy/index.php/component/k2/item/13030-en-mesw-anhsyxiwn-gia-thn-anastolh-dokimwn-ths-astrazenepsa-xiliades-nea-krousmata-psobid-19-pagkosmiws,https,0,6,0,18,0.39964497048204434,0,0,1,0,1,AS30148,SUCURI-SEC,23515979,798,192.124.249
+https://bitly.com/3k5kgh2%20https:/videos.jornada.com.mx/video/99014293/cientificos-enmarcan-en-la-normalidad-interrupcion/,https,0,7,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.pronews.gr/ygeia/907578_sputnik-v-vasiko-systatiko-toy-emvolioy-o-adenoios-hrisimopoieitai-ston-amerikaniko,https,0,3,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://www.linkedin.com/feed/update/urn:li:share:6708379759782461440,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.linkedin.com/feed/update/urn:li:share:6709375349794377728,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.elheraldodetabasco.com.mx/mundo/astrazeneca-espera-tener-una-vacuna-a-principios-de-2021-coronavirus-epidemia-pandemia-oxford-matt-hancock-5726640.html,https,0,3,0,29,0.47028882291871643,0,0,0,0,2,AS16509,AMAZON-02,982881,691,13.249.130
+http://mxpolitico.com/internacional/politica/ensayo-vacuna-covid-19-astrazeneca-continua-india-pesar-enfermedad,http,0,4,0,14,0.37989356976525346,0,0,0,0,0,AS14061,DIGITALOCEAN-ASN,30449,36,67.205.134
+https://urldefense.com/jerror,https,0,2,0,14,0.43346498912332576,0,0,0,0,0,AS14618,AMAZON-AES,11024672,2,52.71.28
+https://www.viportal.co/business/covid-vaccine-serum-institute-says-india-trials-will-continue-after-partner-astrazeneca-halts-trials-in-uk/?utm_source=dlvr.it&utm_medium=twitter,https,2,4,0,15,0.4154039356509715,0,0,1,0,1,AS20473,AS-CHOOPA,67615,13,209.250.225
+https://universalhealth2030.org/2020/09/09/astrazeneca-puts-vaccine-trial-on-hold-after-participant-falls-ill/,https,0,6,0,23,0.5002278545792475,0,0,0,0,0,AS25369,Hydra Communications Ltd,267344,659,81.19.215
+https://dailycaller.com/2020/08/21/russia-putin-coronavirus-vaccine-daughter-sputnik-v-pandemic/,https,0,6,0,15,0.4154039356509715,0,0,0,0,0,AS13335,CLOUDFLARENET,5102709,1,104.23.140
+https://archive.st/archive/2020/9/www.ansa.it/efte/www.ansa.it/sito/notizie/mondo/2020/09/09/astrazenecastop-temporaneo-test-vaccino_e14c1f00-5caf-4a4c-91ea-77ada54d2a1a.html,https,0,14,0,10,0.4152410164862569,0,0,0,0,0,AS15169,GOOGLE,18193,1,34.83.201
+https://miamidiario.com/atencion-astrazeneca-suspendio-pruebas-de-vacuna-contra-covid-19/,https,0,3,0,15,0.34873726325154986,0,0,0,0,0,AS13335,CLOUDFLARENET,754702,93,172.64.109
+https://panoramafarmaceutico.com.br/2020/07/31/aztrazeneca-esta-protegida-de-processos-por-efeitos-colaterais-de-vacina-contra-covid-19-diz-executivo/,https,0,6,0,27,0.44329987761205014,0,0,0,0,1,AS13335,CLOUDFLARENET,4410077,1085,172.67.220
+https://www.wefornews.com/will-the-superfast-sputnik-v-vaccine-put-citizens-at-risk/,https,0,3,0,17,0.38145019918625905,0,0,0,0,1,AS13335,CLOUDFLARENET,2703309,1072,104.18.61
+https://peoplesdaily.pdnews.cn/world/vaccine-still-possible-this-year-despite-trial-pause-astrazeneca-175146.html,https,0,3,0,22,0.44657796153342233,0,0,0,0,1,AS45102,"Alibaba (US) Technology Co., Ltd.",5388,1,47.88.5
+https://prismaradio.gr/2020/09/09/astrazeneca-se-liges-meres-tha-gnorizoyme-an-i-diakopi-ton-dokimon-toy-emvolioy-einai-simantiki-ektima-o-ilias-mosialos/,https,0,6,0,14,0.39775070955127756,0,0,0,0,0,AS24940,Hetzner Online GmbH,620,4,78.46.67
+https://www.chiapas.eu/news.php?id=10810,https,1,2,0,14,0.3977507095512775,0,0,0,0,1,AS29014,ScaleUp Technologies GmbH & Co. KG,420296,129,81.28.228
+https://2001online.com/coronavirus-al-dia/236944/-astrazeneca-preve-conocer-la-eficacia-de-su-vacuna-a-fin-de-ano-si-se-reanudan-ensayos.html,https,0,4,0,14,0.42234791389958853,0,0,1,0,0,AS13335,CLOUDFLARENET,3391891,1049,172.67.128
+http://purmamarcadiariodigital.com.ar/contenido/2991/aseguran-que-la-vacuna-de-astrazeneca-puede-estar-para-fin-de-ano?platform=hootsuite,http,1,4,0,30,0.4289252374220489,0,0,0,0,1,AS13335,CLOUDFLARENET,13749864,1074,104.27.157
+https://prensaldia.com/contenido/3583/covid-la-suspension-del-ensayo-de-la-vacuna-de-astrazeneca-es-un-sintoma-de-segu,https,0,4,0,14,0.45806219347163685,0,0,0,0,0,AS13335,CLOUDFLARENET,14012267,1057,104.27.139
+https://www.alainet.org/es/articulo/208491?utm_source=twitter,https,1,4,0,15,0.4154039356509715,0,0,0,0,1,AS49367,Seflow S.N.C. Di Marco Brame' & C.,5025245,421,95.141.32
+https://www.vtv.gob.ve/astrazeneca-oxford-suspenden-vacunaciones-contra-covid19/,https,0,3,0,14,0.34855630085465544,0,0,0,0,2,AS8048,"CANTV Servicios, Venezuela",134628,1,201.249.134
+http://urbanianoticias.com.mx/index.php/2012-09-19-14-40-15/29232-mexico-recibira-2-mil-dosis-de-vacunas-sputnik-v,http,0,4,0,22,0.44657796153342233,0,0,0,0,1,AS15169,GOOGLE,80864,107,35.209.120
+https://bitly.com/3hebR9o%20http:/dikgazete.com,https,0,3,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://www.hamaika.eus/tb/bideo/92171,https,0,4,0,15,0.3924465391931262,0,0,0,0,1,AS8560,1&1 Ionos Se,14588,10,87.106.192
+http://riknews.com.cy/index.php/news/epistimi/item/103321-to-proto-rosiko-emvolio-sputnik-v-kata-tou-koronoioy-tha-dokimasthei-se-40-000-anthropous,http,0,6,0,14,0.44020505368561275,0,0,0,0,1,AS13335,CLOUDFLARENET,12919842,77,104.26.15
+https://magnesianews.gr/perissotera/kosmos/ti-epathe-o-ethelontis-poy-ekane-to-peiramatiko-emvolio-tis-astrazeneca.html,https,0,4,0,15,0.40502799877548346,0,0,0,0,0,AS13335,CLOUDFLARENET,3724265,1081,104.31.92
+https://bitly.com/35hiDZD%20https:/bit.ly/35hiDZD,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.amazon.in/b?ie=UTF8&node=14351766031,https,2,2,0,13,0.35914257288955465,0,1,0,1,1,AS3257,GTT Communications Inc.,398,1,23.203.113
+https://www.linkedin.com/feed/update/urn:li:share:6709823333526982656,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+http://www.homelandnewsng.com/other-news/16337-covid-19-vaccine-still-possible-year-despite-trial-pause-%E2%80%93-astrazeneca,http,0,3,0,22,0.4395034581411427,0,0,0,0,1,AS32475,SINGLEHOP-LLC,3319529,1087,184.154.119
+https://coronaviruscall.com/why-astrazeneca-just-paused-its-coronavirus-vaccine-trial/,https,0,3,0,19,0.428952942016683,0,0,0,0,0,AS20068,HAWKHOST,1113431,1338,198.252.102
+http://masnoticiasoaxaca.com/alista-astrazeneca-ensayos-masivos-de-su-vacuna-contra-el-covid-19/,http,0,3,0,21,0.3876145711563474,0,0,0,0,0,AS16509,AMAZON-02,46,14,35.182.205
+https://www.linkedin.com/feed/update/urn:li:share:6704127849294573568,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.olivanoticias.com/mundo/137005/vacuna_de_astrazeneca-oxford_ya_esta_en_produccion,https,0,4,0,21,0.42841666568390874,0,0,0,0,1,AS16276,OVH SAS,4330563,88,142.44.214
+https://circuitoglobal.com/2020/09/10/astrazeneca-preve-conocer-la-eficacia-de-su-vacuna-a-fin-de-ano-si-se-reanudan-ensayos/,https,0,6,0,18,0.4274227482598221,0,0,0,0,0,AS16276,OVH SAS,168133,799,51.89.48
+https://peru21.pe/mundo/coronavirus-vacuna-covid-19-de-astrazeneca-y-oxford-estados-unidos-anthony-fauci-dice-que-pausa-en-ensayos-es-desafortunada-pero-puede-suceder-usa-nndc-noticia/,https,0,4,0,9,0.3406850756895644,0,0,0,0,0,AS20940,Akamai International B.V.,287841,37,104.76.198
+https://www.gsnoticias.com/astrazeneca-frena-temporalmente-los-ensayos-de-su-vacuna-contra-la-covid-19/,https,0,3,0,18,0.4187761341969155,0,0,0,0,1,AS21501,Host Europe GmbH,2067,2,160.153.177
+https://bitly.com/2C2wnLL%20https:/twitter.com/DeniseMaerker/status/1303540739050287105,https,0,6,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://trsondakika.com/astrazeneca-ve-oxford-universitesinin-asi-calismalari-durduruldu-son-dakika-haberleri/,https,0,3,0,15,0.4383613321088168,0,0,0,0,0,AS13335,CLOUDFLARENET,2004629,1096,104.27.186
+https://www.dreuz.info/2020/08/02/vaccin-contre-le-coronavirus-astrazeneca-sera-exempte-de-toute-responsabilite-dans-la-plupart-des-pays/,https,0,6,1,14,0.41560784933730166,0,0,0,0,1,AS13335,CLOUDFLARENET,9069366,986,104.24.120
+http://tcpros.co/3U8EQ%20https:/www.cnn.com/videos/health/2020/09/09/astrazeneca-coronavirus-vaccine-trial-pause-gupta-newday-vpx.cnn,http,0,9,0,9,0.3406850756895644,0,0,0,0,0,AS14061,DIGITALOCEAN-ASN,171786,8,142.93.186
+https://covid19globalcases.com/coronavirus-vaccine-uk-drugmaker-astrazeneca-starts-last-of-us-trials/,https,0,3,0,22,0.4693052342606951,0,0,0,1,0,AS62729,ASMALLORANGE1,377135,223,143.95.80
+https://bitly.com/3m4iL4t%20https:/bit.ly/3m4iL4t,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+http://urbanianoticias.com.mx/index.php/2012-09-19-14-40-27/29177-inmunologa-israeli-sputnik-v-garantizaria-una-inmunidad-mas-estable-que-la-vacuna-de-oxford,http,0,4,0,22,0.44657796153342233,0,0,0,0,1,AS15169,GOOGLE,80864,107,35.209.120
+https://www.infobae.com/america/,https,0,3,0,15,0.4154039356509715,1,0,0,1,1,AS20940,Akamai International B.V.,190076,52,172.232.21
+https://bitly.com/2Fexr0j%20https:/bit.ly/2ZozMwN%20https:/bit.ly/2ZplLPs,https,0,6,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://regeneracion.mx/ebrard-sostiene-encuentro-con-canciller-ruso-y-muestra-interes-por-vacuna-sputnik-5/,https,0,3,0,15,0.4154039356509715,0,0,0,0,0,AS13335,CLOUDFLARENET,2464483,1019,172.67.197
+https://bitly.com/3lJDkmz%20https:/bit.ly/32Jx0TC,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.astratv.gr/2020/09/09/%CE%BA%CE%BF%CF%81%CE%BF%CE%BD%CE%BF%CF%8A%CF%8C%CF%82-%CE%B7-%CE%B1%CE%BD%CE%B1%CE%BA%CE%BF%CE%AF%CE%BD%CF%89%CF%83%CE%B7-%CF%84%CE%B7%CF%82-astrazeneca-%CE%B3%CE%B9%CE%B1%CF%84%CE%AF-%CE%B4%CE%B9/,https,0,6,0,14,0.36203642997922936,0,0,0,0,1,AS24940,Hetzner Online GmbH,24499,3,188.40.84
+https://www.mexnewz.mx/mexico-tendra-dos-mil-voluntarios-para-realizar-fase-3-de-vacuna-rusa-sputnik-5/,https,0,3,0,14,0.3330622088272306,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,726757,310,107.180.2
+https://eldiariodecoahuila.com.mx/2020/09/10/indiasuspenden-pruebas-con-vacuna-astrazeneca-contra-covid/,https,0,6,0,25,0.44915871934839213,0,0,0,0,1,AS55293,A2HOSTING,46999,2,68.66.232
+https://www.covid-19worldstats.com/news/First-American-dosed-with-Oxford-AstraZeneca-phase-three-COVID-19-vaccine-speaks-out,https,0,3,0,26,0.47815645050035044,0,0,0,0,1,AS20857,Transip B.V.,48038,15,37.97.159
+https://www.ln24.be/2020-09-09/mauvaise-nouvelle-sur-le-front-du-vaccin-contre-le-covid-19,https,0,3,0,11,0.3556688667156348,0,0,0,0,1,AS13335,CLOUDFLARENET,5548349,103,104.26.3
+https://magnesianews.gr/perissotera/kosmos/parathyro-epanenarxis-ton-dokimon-apo-tin-astrazeneca-ti-lene-poy-e-e-kai-faoytsi.html,https,0,4,0,15,0.40502799877548346,0,0,0,0,0,AS13335,CLOUDFLARENET,3724396,1081,104.31.93
+https://www.viportal.co/love/as-astrazeneca-pauses-covid-19-vaccine-trial-over-serious-adverse-reaction-expert-says-the-system-is-working-as-designed/?utm_source=dlvr.it&utm_medium=twitter,https,2,4,0,15,0.4154039356509715,0,0,1,0,1,AS20473,AS-CHOOPA,67615,13,209.250.225
+https://www.mexnewz.mx/astrazeneca-suspende-los-ensayos-de-la-vacuna-de-oxford-por-la-reaccion-adversa-grave-de-un-voluntario/,https,0,3,0,14,0.3330622088272306,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,726757,310,107.180.2
+https://news.v.daum.net/v/20200826051420138,https,0,3,0,15,0.4154039356509715,0,0,0,0,2,AS7625,Kakao Corp,4559698,2,211.249.221
+https://www.annurtv.com/nota/59482,https,0,3,0,15,0.4154039356509715,0,0,0,0,1,AS13335,CLOUDFLARENET,4186617,1035,104.31.79
+http://guiaglobal.com.br/2020/08/17/imunologista-israelense-sputnik-v-garantiria-imunidade-mais-estavel-do-que-a-vacina-de-oxford/,http,0,6,0,17,0.42269755697633454,0,0,0,0,1,AS27715,Locaweb Servicos de Internet S/A,13733,5,191.252.123
+https://bitly.com/3heVGbJ%20https:/bit.ly/3heVGbJ,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://oscarmariobeteta.com/entrevista-con-el-mtro-mikel-arriola-9-septiembre-2020/,https,0,3,0,20,0.4183049217994888,0,0,0,0,0,AS13335,CLOUDFLARENET,9129887,119,104.26.15
+https://www.euro2day.gr/news/world/article/2041017/telos-toy-hronoy-tha-xeroyme-gia-to-emvolio-leei-h.html,https,0,6,0,15,0.4154039356509715,0,0,0,0,1,AS13335,CLOUDFLARENET,10490892,61,104.26.14
+https://canal7salta.com/2020/09/10/argentina-la-vacuna-podria-estar-para-fin-de-ano-o-principios-del-2021-dijo-astrazeneca/,https,0,6,0,15,0.38836132637606186,0,0,0,0,0,AS47583,Hostinger International Limited,3071,1,45.132.243
+https://www.heraldlive.co.za/news/2020-09-09-oxford-puts-leading-covid-19-vaccine-trial-on-hold-over-safety-concern/?utm_medium=Social&utm_source=Twitter,https,2,4,0,20,0.4433049217994887,0,0,1,0,2,AS15169,GOOGLE,417366,25,108.177.111
+https://mailchi.mp/acouplecents/morningcents-4881716,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://www.leparisien.fr/societe/covid-19-astrazeneca-fait-une-pause-dans-les-essais-cliniques-de-son-vaccin-09-09-2020-8381097.php,https,0,3,0,17,0.41714691304294166,0,0,0,0,1,AS20940,Akamai International B.V.,188816,18,96.17.11
+https://www.gazeta.ru/social/news/2020/09/09/n_14915030.shtml,https,0,7,0,13,0.37837334212032386,0,0,0,0,1,AS24638,Rambler Internet Holding LLC,11913546,24,81.19.72
+https://www.elciudadanoweb.com/astrazeneca-sobre-la-vacuna-puede-estar-para-fin-de-ano-o-principios-del-2021/,https,0,3,0,22,0.44379259502119617,0,0,0,0,1,AS13335,CLOUDFLARENET,5520922,80,104.26.14
+https://www.linkedin.com/feed/update/urn:li:share:6709509681242505216,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.coronavirusgripe.com/articulo/noticias/alternativas-vacuna-oxford-astrazeneca-covid/20200909095001005140.html,https,0,5,0,24,0.4675751972640999,0,0,0,0,1,AS13335,CLOUDFLARENET,5150250,111,104.26.15
+https://mailchi.mp/linksbridge/covid-19-developments-5039766?e=655054f1c5,https,1,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://coronaviruscall.com/astrazeneca-expects-coronavirus-vaccine-result-by-year-end-if-trials-resume-soon/,https,0,3,0,19,0.428952942016683,0,0,0,0,0,AS20068,HAWKHOST,1113431,1338,198.252.102
+https://www.linkedin.com/feed/update/urn:li:share:6709470102649098240,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://ejecon.org/esther-pascual-head-of-global-external-alliances-astrazeneca/,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16276,OVH SAS,2633052,651,149.202.128
+https://abcnews.media/russia-named-epivaccorona-in-preparation-to-launch-another-vaccine,https,0,2,0,13,0.4240934099952612,0,0,0,0,0,AS26496,AS-26496-GO-DADDY-COM-LLC,17832,53,198.12.255
+https://www.negotiamini.com/hhs-secretary-insists-no-politics-at-play-in-coronavirus-vaccine-race/,https,0,3,0,19,0.41579504727984096,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,70953,22,107.180.93
+https://www.biopharma-reporter.com/Article/2020/09/09/AstraZeneca-pauses-COVID-19-vaccine-trials-to-allow-review-of-safety-data?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=RSS,https,3,6,0,26,0.4552964140823628,0,0,0,0,1,AS15169,GOOGLE,9511749,73,35.190.48
+https://radiocolosal.com/2020/09/09/astrazeneca-y-oxford-interrumpen-los-ensayos-de-su-vacuna-contra-la-covid-19-al-enfermar-uno-de-los-voluntarios/,https,0,6,0,16,0.390625,0,0,0,0,0,AS16276,OVH SAS,1229965,500,5.135.93
+https://versionfinal.com.ve/mundo/astrazeneca-interrumpe-ensayos-de-vacuna-contra-el-covid-19/,https,0,4,0,19,0.45204356121396577,0,0,0,0,1,AS13335,CLOUDFLARENET,4222196,97,104.26.1
+https://bitly.com/2FgdaHF%20https:/amp.theguardian.com/world/2020/sep/09/the-oxford-university-astrazeneca-covid-19-vaccine-trial-has-been-paused-should-we-be-worried?__twitter_impression=true,https,1,8,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://www.astratv.gr/2020/08/20/%CF%81%CF%89%CF%83%CE%AF%CE%B1-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%83%CE%BF%CE%B2%CE%B1%CF%81%CE%AD%CF%82-%CF%80%CE%B1%CF%81%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B5%CF%82-%CF%84%CE%BF-%CE%B5/,https,0,6,0,14,0.36203642997922936,0,0,0,0,1,AS24940,Hetzner Online GmbH,24499,3,188.40.84
+http://politicaonline.mx/disp.noticia.aspx?id=26614,http,1,2,0,17,0.4318527953958828,0,0,1,0,0,AS15169,GOOGLE,159723,4923,34.98.99
+https://www.astratv.gr/2020/09/09/%CE%B5%CE%B3%CE%BA%CE%AC%CF%81%CF%83%CE%B9%CE%B1-%CE%BC%CF%85%CE%B5%CE%BB%CE%AF%CF%84%CE%B9%CE%B4%CE%B1-%CE%B1%CF%85%CF%84%CE%AE-%CE%B7-%CE%BD%CF%8C%CF%83%CE%BF%CF%82-%CF%80%CE%AC%CE%B3%CF%89/,https,0,6,0,14,0.36203642997922936,0,0,0,0,1,AS24940,Hetzner Online GmbH,24499,3,188.40.84
+https://olhardigital.com.br/2020/08/16/noticias/covid-19-russia-divulga-inicio-da-producao-da-vacina-sputnik-v/,https,0,7,0,19,0.4520435612139659,0,0,0,0,1,AS16509,AMAZON-02,1396706,690,13.249.130
+https://www.linkedin.com/feed/update/urn:li:share:6702415011215659009,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://primenewslive.com/world-news/russia-partnership-with-india-for-producing-covid-19-vaccine-sputnik-v/,https,0,4,0,17,0.446558677748824,0,0,1,0,0,AS51167,Contabo GmbH,347699,31,5.189.175
+https://bitly.com/ARY-News%20https:/bit.ly/35nJZxi,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://linktr.ee/smartmedia%20https:/gigazine.net/news/20200909-astrazeneca-covid-19-vaccine-trial-pause/,https,0,6,0,9,0.3684628534673422,0,0,0,0,0,AS54113,FASTLY,504698434,1807,151.101.194
+https://wtxnews.com/2020/09/09/gatherings-more-6-people-banned-england/,https,0,6,0,11,0.409701685930287,0,0,0,0,0,AS2635,AUTOMATTIC,2410142,3178,192.0.78
+https://mailchi.mp/6587b08bf87a/sixteen3-news-and-product-updates-3300750,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+http://diverticine.com/rrcnoticias/vacuna-de-astrazeneca-oxford-ya-esta-en-produccion/,http,0,4,0,15,0.4154039356509715,0,0,0,0,0,AS46606,UNIFIEDLAYER-AS-1,48034,500,50.87.236
+https://www.linkedin.com/feed/update/urn:li:share:6708969247034417152,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://archive.st/archive/2020/9/scienze.fanpage.it/lsvr/scienze.fanpage.it/bill-gates-finanzia-la-produzione-del-vaccino-anti-coronavirus-di-oxford-presto-2-miliardi-di-dosi/index.html,https,0,9,0,10,0.4152410164862569,0,0,0,0,0,AS15169,GOOGLE,18193,1,34.83.201
+https://www.astratv.gr/2020/09/10/%CE%BA%CE%BF%CF%81%CE%BF%CE%BD%CE%BF%CF%8A%CF%8C%CF%82-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-%CE%B1%CE%BD%CE%B7%CF%83%CF%85%CF%87%CE%AF%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7-%CE%B4%CE%B9%CE%B1/,https,0,6,0,14,0.36203642997922936,0,0,0,0,1,AS24940,Hetzner Online GmbH,24499,3,188.40.84
+https://gmnoticias.mx/vacuna-contra-coronavirus-estara-disponible-para-fin-de-ano-insiste-astrazeneca/,https,0,3,0,13,0.4240934099952612,0,0,0,0,0,AS30148,SUCURI-SEC,8339394,628,192.124.249
+https://www.nytimes.com/reuters/2020/09/08/world/europe/08reuters-health-coronavirus-astrazeneca.html,https,0,8,0,15,0.4154039356509715,0,0,0,0,1,AS54113,FASTLY,272398164,124,151.101.129
+https://www.linkedin.com/feed/update/urn:li:share:6707263103760928768,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://actualidad.rt.com/actualidad/363741-mexico-interes-vacuna-rusa-coronavirus?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://www.upatadigital.com.ve/2020/09/farmaceutica-astrazeneca-suspende.html?utm_source=dlvr.it&utm_medium=twitter,https,2,4,0,23,0.46618077455302837,0,0,0,0,2,AS15169,GOOGLE,40694,16,172.217.212
+http://www.gazetevatan.com/sucluyu-yuzunden-taniyacaklar----294534-gundem/,http,0,3,0,19,0.428952942016683,0,0,0,0,1,AS16276,OVH SAS,2837531,2,51.81.66
+https://www.lamontagne.fr/paris-75000/actualites/auchan-va-supprimer-1-475-postes-astrazeneca-suspend-les-essais-de-son-vaccin-les-5-infos-du-midi-pile_13834409/,https,0,5,0,17,0.4318527953958829,0,0,0,0,1,AS8839,SdV-Plurimedia,7039828,22,212.95.74
+https://www.mexnewz.mx/vacuna-de-astrazeneca-ingresa-en-estudio-de-etapa-avanzada-en-eu/,https,0,3,0,14,0.3330622088272306,0,0,0,0,1,AS26496,AS-26496-GO-DADDY-COM-LLC,726757,310,107.180.2
+https://www.linkedin.com/feed/update/urn:li:share:6709372777780015104,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://actualidad.rt.com/actualidad/363817-rusia-comenzara-ensayos-clinicos-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://arsitios.com/zonafrancatv/2020/08/17/vacuna-contra-el-coronavirus-rusia-produjo-ya-15-500-dosis-de-sputnik-v/,https,0,7,0,12,0.38562031562256,0,0,0,0,0,AS13335,CLOUDFLARENET,3830787,1128,172.67.177
+https://arbitror.pl/produkt/morawiecki-i-jego-tajemnice/,https,0,4,0,11,0.3783961433516041,0,0,0,0,0,AS12824,home.pl S.A.,7935,5,79.96.62
+https://werindia.com/coronavirus,https,0,2,0,12,0.42728698228922657,0,0,0,0,0,AS29802,HVC-AS,17259,1,209.133.192
+https://versionfinal.com.ve/mundo/astrazeneca-detiene-ensayos-de-su-vacuna-contra-covid-19-por-reaccion-adversa-en-un-voluntario/,https,0,4,0,19,0.45204356121396577,0,0,0,0,1,AS13335,CLOUDFLARENET,4222192,97,104.26.0
+http://www.migueljara.com/2020/09/10/el-fracaso-esperado-de-la-vacuna-para-la-covid-19-de-astrazeneca-y-oxford/,http,0,6,0,18,0.4465539119746932,0,0,0,0,1,AS16276,OVH SAS,3282680,765,94.23.84
+https://www.biotoday.com/view.cfm?n=92566,https,1,2,0,16,0.41007988164154,0,0,0,0,1,AS23637,Equinix Jpapan Enterprise K.K.,60375,1,112.140.51
+https://bitly.com/3hcDmjI%20https:/twitter.com/oscarbadoino/status/1303609195909066753,https,0,6,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.redetv.uol.com.br/jornalismo/cidades/covid-19-astrazeneca-informa-brasil-que-suspendeu-testes-de-vacina,https,0,4,0,21,0.437403420481037,0,0,0,0,3,AS21911,UOL DIVEO S.A.,758238,1,187.18.60
+http://dld.bz/-tws%20http:/www.bbc.com/mundo/noticias-54090519,http,0,5,0,6,0.28145364895589325,0,0,0,0,0,AS14618,AMAZON-AES,3961,3,54.164.168
+https://www.lavozdemichoacan.com.mx/pais/covid-19/eua-busca-a-30-mil-voluntarios-para-participar-en-la-fase-3-de-la-vacuna-de-astrazeneca/,https,0,5,0,27,0.46228073645263984,0,0,0,0,2,AS8560,1&1 Ionos Se,98518,2,50.21.183
+https://actualidad.rt.com/actualidad/364178-oms-iniciar-discusiones-rusia-vacuna-sputnik?utm_source=rss&utm_medium=rss&utm_campaign=actualidad,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS60781,LeaseWeb Netherlands B.V.,4933640,1,37.48.108
+https://diarioroatan.com/mexico-en-su-fase-3-ensayara-vacuna-rusa-sputnik-v/hambrezona,https,0,3,0,16,0.39445488164154,0,0,0,0,0,AS14061,DIGITALOCEAN-ASN,2984,1,192.241.129
+https://bitly.com/checkourstore%20https:/www.cbsnews.com/news/astrazeneca-temporarily-pauses-coronavirus-vaccine-trial-after-participant-may-have-suffered-adverse-reaction/%20http:/ThePugilistMag.co.uk,https,0,7,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://www.linkedin.com/feed/update/urn:li:share:6709463985718087681,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://radiorbc.com/astrazeneca-pausa-ensayo-de-vacuna-contra-el-coronavirus-por-una-enfermedad-potencialmente-inexplicable/,https,0,3,0,12,0.38562031562255994,0,0,0,1,0,AS63410,PRIVATESYSTEMS,14257,51,170.249.203
+https://elpueblo.com.pe/primer-lote-de-vacunas-rusas-supero-las-15-mil/,https,0,3,0,15,0.3820706023176382,0,0,0,0,1,AS14618,AMAZON-AES,38442,2,3.230.68
+https://www.viportal.co/business/coronavirus-chicago-astrazeneca-covid-19-vaccine-study-paused-worldwide-after-patient-reports-serious-side-effects-wls-tv/?utm_source=dlvr.it&utm_medium=twitter,https,2,4,0,15,0.4154039356509715,0,0,1,0,1,AS20473,AS-CHOOPA,67615,13,209.250.225
+https://boommedia.mx/rusia-busca-que-mexico-participe-en-la-produccion-de-la-vacuna-sputnik-v-como-lo-hizo-con-la-de-astrazeneca/?fbclid=IwAR1Wo37BP-w6dZwExggb1TNeSSQ_GIqw49f94OMTv9TObpnY--A_cG2SHOI,https,1,3,0,12,0.37775690338358664,0,0,0,0,0,AS16276,OVH SAS,490119,647,158.69.27
+https://dangercovid-19.com/inquiry-begins-into-astrazenecas-vaccine-trial/,https,0,3,0,18,0.47957396457845314,0,0,0,0,0,AS13335,CLOUDFLARENET,4473190,1058,104.27.140
+https://dikaioma.gr/koronoios-ti-epathe-o-ethelontis-pou-ekane-to-piramatiko-emvolio-tis-astrazeneca/,https,0,3,0,11,0.38697440929431765,0,0,0,0,0,AS24940,Hetzner Online GmbH,5546,5,213.133.102
+https://www.eagletimes.com/features/rather-than-give-away-its-covid-vaccine-oxford-makes-a-deal-with-drugmaker/article_48d3df2b-5979-59e8-b94f-b4ac11c2a5bd.html,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS10668,LEE-ASN,379376099,482,192.104.182
+https://www.linkedin.com/feed/update/urn:li:share:6709773464187879425,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://imefi.tv/general/paga-con-tarjeta-tus-viajes-en-taxi/,https,0,4,0,8,0.34375,0,0,0,0,0,AS36024,AS-TIERP-36024,16494,112,65.99.225
+https://www.linkedin.com/signup/cold-join?session_redirect=https://www.linkedin.com/feed/update/urn:li:share:6707303420442869760,https,1,3,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://informateperu.pe/politica/vizcarra-sobre-vacuna-rusa-contra-el-covid-19-no-descartamos-ninguna-posibilidad-video/,https,0,4,0,16,0.43160244082077,0,0,0,0,0,AS2635,AUTOMATTIC,5003804,3278,192.0.78
+https://www.elinformador.com.co/index.php/general/163-internacional/240067-astrazeneca-interrumpe-ensayos-de-vacuna-contra-la-covid-19-por-seguridad,https,0,5,0,23,0.4376747287646666,0,0,0,0,2,AS13335,CLOUDFLARENET,5033990,1103,104.24.98
+https://reduce-weight.in/astrazeneca-paused-its-covid-19-vaccine-trial-to-perform-a-safety-review-thats-not-bad-news/,https,0,3,0,16,0.44722744082077,0,0,0,0,0,AS45102,"Alibaba (US) Technology Co., Ltd.",1548,2,47.75.157
+https://seekingalpha.com/news/3612712-patient-diagnosis-in-covidminus-19-vaccine-trial-still-pending-says-astrazeneca,https,0,3,0,16,0.46875,0,0,0,0,0,AS54113,FASTLY,540352955,10,151.101.66
+https://www.band.uol.com.br/noticias/suspens%C3%A3o-dos-estudos-deve-atrasar-vacina-AstraZeneca-Oxford-afirma-pesquisadora-16309945,https,0,3,0,19,0.42076140951006125,0,0,0,0,3,AS7162,Universo Online S.A.,17183728,1,200.147.4
+https://kion546.com/health/2020/09/09/astrazeneca-pauses-coronavirus-vaccine-trial-after-unexplained-illness-in-volunteer/,https,0,7,0,11,0.409701685930287,0,0,0,0,0,AS54113,FASTLY,1225934,488,23.185.0
+https://www.amna.gr/home/article/486146/POY-koronoios-I-asfaleia-enos-pithanou-emboliou-apotelei-upsisti-proteraiotita%20https:/www.pscp.tv/w/1OwxWLWpnBpKQ,https,0,8,0,11,0.33294159007966545,0,0,0,0,1,AS20940,Akamai International B.V.,5231990,7,23.48.94
+https://www.biotoday.com/view.cfm?n=92566&ref=rss&utm_source=dlvr.it&utm_medium=twitter,https,4,2,0,16,0.41007988164154,0,0,0,0,1,AS23637,Equinix Jpapan Enterprise K.K.,60375,1,112.140.51
+https://gnomionline.com.cy/index.php/component/k2/item/12956-rwsia-xwris-sobares-parenergeies-oi-klinikes-dokimes-tou-emboliou-spytnik-b,https,0,6,0,18,0.39964497048204434,0,0,1,0,1,AS30148,SUCURI-SEC,23515979,798,192.124.249
+http://dursamj.mn/gadaad-medee/16561-turshilt-n-duusaagy-ch-sputnik-v-vakcinaas-vputin-aysangy.html,http,0,3,0,10,0.39024101648625686,0,0,0,0,0,AS63962,iTools JSC,293001,10,43.231.115
+http://bit.ly/2GKsKMj@aimeedonnellan,http,0,2,0,6,0.32312031562255994,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,102040161,4,67.199.248
+https://news.v.daum.net/v/20200729212421973,https,0,3,0,15,0.4154039356509715,0,0,0,0,2,AS9457,DREAMLINE CO.,4556822,2,121.53.224
+https://www.linkedin.com/feed/update/urn:li:share:6709353667780202496,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.copernical.com/news-public/item/18695-2020-08-24-06-55-10,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS8560,1&1 Ionos Se,2994552,2556,217.160.0
+https://naszapolska.pl/2020/09/09/koncern-farmaceutyczny-wstrzymal-testy-szczepionki-na-covid-19-po-groznym-nop-ie/,https,0,6,0,14,0.37989356976525346,0,0,0,0,0,AS15967,Nazwa.pl Sp.z.o.o.,18506,7,85.128.185
+https://www.elnuevodia.com/ciencia-ambiente/otros/notas/astrazeneca-detiene-pruebas-de-vacuna-contra-covid-19-debido-a-enfermedad-de-un-paciente/,https,0,6,0,18,0.4465539119746932,0,0,0,0,1,AS13335,CLOUDFLARENET,4247157,2,104.16.157
+https://www.pravda.ru/news/expert/1521730-izrailskij_immunolog/,https,0,5,0,13,0.35914257288955465,0,0,0,0,1,AS57918,ACOD JSC,12965980,1,185.201.54
+https://onerazz.com/2020/08/19/globalbuzz-bekas-naib-presiden-amerika-syarikat-joe-biden-secara-rasmi-memenangi-pencalonan-presiden-parti-demokrat-menerusi-undian-perwakilan-di-konvensyen-kebangsaan-parti-itu-agensi-berita-sput/,https,0,6,0,11,0.38697440929431765,0,0,0,0,0,AS16276,OVH SAS,632113,1120,51.79.176
+https://www.medcom.id/internasional/eropa-amerika/MkMG2jEN-uji-klinis-fase-3-sputnik-v-dimulai-pekan-depan,https,0,4,0,13,0.35914257288955465,0,0,0,0,1,AS45734,PT Media Televisi Indonesia,508206,2,103.225.66
+https://www.covid19infos.info/post/australia-s-csl-signs-deals-to-manufacture-two-covid-19-vaccine-candidates,https,0,3,1,21,0.42841666568390857,0,0,0,0,1,AS58182,Wix.com Ltd.,13163060,264,185.230.60
+http://masnoticiasoaxaca.com/vacuna-de-astrazeneca-oxford-ya-esta-en-produccion/,http,0,3,0,21,0.3876145711563474,0,0,0,0,0,AS16509,AMAZON-02,46,14,35.182.205
+https://www.elsoldemexico.com.mx/mundo/rusia-produce-mas-de-15-mil-dosis-de-su-vacuna-contra-covid-19-sputnik-v-5639668.html,https,0,3,0,24,0.4180451183584601,0,0,0,0,2,AS16509,AMAZON-02,924324,652,13.249.130
+https://www.pronews.gr/ygeia/farmaka/913144_emvolio-astrazeneca-egkarsia-myelitida-i-parenergeia-poy-pagose-tis-klinikes,https,0,4,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://www.teleamazonas.com/2020/08/vacuna-sputkin-v-recibe-autorizacion-para-ensayos-avanzados/,https,0,5,0,20,0.4308049217994888,0,1,0,1,1,AS3356,LEVEL3,5,1,8.248.59
+https://www.linkedin.com/feed/update/urn:li:share:6709793180595970048,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.elsoldezacatecas.com.mx/mundo/astrazeneca-espera-tener-una-vacuna-a-principios-de-2021-coronavirus-epidemia-pandemia-oxford-matt-hancock-5726640.html,https,0,3,0,27,0.4472570678181096,0,0,0,0,2,AS16509,AMAZON-02,956122,690,13.249.130
+https://actualidad.rt.com/actualidad/363817-rusia-comenzara-ensayos-clinicos-sputnik?utm_source=Email-Message&utm_medium=Email&utm_campaign=Email_daily,https,3,3,0,17,0.41714691304294166,0,0,0,0,1,AS30633,LEASEWEB-USA-WDC,240037,1,207.244.80
+https://bitly.com/checkourstore%20https:/www.cnbc.com/2020/09/09/astrazenecas-vaccine-trial-halt-defended-by-matt-hancock.html%20http:/ThePugilistMag.co.uk,https,0,8,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.xeu.mx/nota.cfm?id=1120485&t=vacuna-covid19-estaria-lista-a-finales-de-ano-pese-a-suspension-de-ensayos-astrazeneca,https,2,2,0,10,0.3058049217994889,0,0,0,0,1,AS7393,CYBERCON,146668,2,66.201.69
+http://newsmobile.in/articles/2021/01/13/covid-19-vaccine-live-updates-first-consignment-of-bharat-biotechs-covaxin-arrives-in-delhi/,http,0,7,0,13,0.40486264076449197,0,0,0,0,0,AS13335,CLOUDFLARENET,7328409,1024,172.67.204
+https://libero.pe/ocio/1579461-coronavirus-mundo-oms-espera-datos-cientificos-vacuna-rusa-covid-19-sputnik-v-rusia,https,0,3,0,9,0.3684628534673422,0,0,0,0,0,AS54113,FASTLY,49771483,285,151.101.130
+https://www.dailytelegraph.com.au/nocookies?a=A.flavipes,https,1,2,0,25,0.48915871934839206,0,0,0,0,2,AS16625,AKAMAI-AS,743249,20,23.35.76
+https://www1.folha.uol.com.br/equilibrioesaude/2020/08/russos-querem-usar-brasil-e-outros-tres-paises-como-base-para-a-producao-da-vacina-sputnik-v.shtml,https,0,5,0,21,0.4329100451298853,0,0,0,0,3,AS7162,Universo Online S.A.,18999331,2,200.147.36
+https://www.linkedin.com/feed/update/urn:li:share:6707388550784049152,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://coronaviruscall.com/coronavirus-mexico-to-test-2000-doses-of-russias-sputnik-vaccine/,https,0,3,0,19,0.428952942016683,0,0,0,0,0,AS20068,HAWKHOST,1113431,1338,198.252.102
+https://mailchi.mp/thespoon/learning-gap-widens-318440,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://www.guadalajarafollow.com/2020/08/mexico-participara-con-2-mil-voluntarios-en-la-fase-3-de-vacuna-sputnik-v/,https,0,5,0,25,0.4248849539258479,0,0,0,0,1,AS13335,CLOUDFLARENET,2353171,1008,104.18.53
+http://www.destakjornal.com.br/mundo/ag%C3%AAncia-inglesa-diz-que-revisar%C3%A1-testes-da-astrazeneca-1.4362,http,0,3,0,23,0.4811529896342318,0,0,0,0,2,AS14061,DIGITALOCEAN-ASN,16463,1,167.172.128
+https://prismaradio.gr/2020/09/10/astrazeneca-poso-tha-diarkesei-i-anastoli-ton-dokimon-toy-emvolioy-kata-toy-koronoioy/,https,0,6,0,14,0.39775070955127756,0,0,0,0,0,AS24940,Hetzner Online GmbH,620,4,78.46.67
+https://mailchi.mp/174083ea6212/hold-your-horses-norman-smartphone-more-1119486,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+https://www.medcom.id/internasional/asia-pasifik/MkMGaejN-india-tetap-lanjutkan-uji-coba-kandidat-vaksin-astrazeneca,https,0,4,0,13,0.35914257288955465,0,0,0,0,1,AS45734,PT Media Televisi Indonesia,508206,2,103.225.66
+https://www.linkedin.com/feed/update/urn:li:share:6709360895958495232,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.copernical.com/news-public/item/18593-2020-08-18-09-55-20,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS8560,1&1 Ionos Se,2994552,2556,217.160.0
+https://www.copernical.com/news-public/item/18598-2020-08-18-09-55-28,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS8560,1&1 Ionos Se,2994552,2556,217.160.0
+https://www.linkedin.com/feed/update/urn:li:share:6709675096832929792,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.csl.com/news/2020/20200907-csl-to-manufacture-and-supply-uq-and-ou-vaccine-candidates-for-australia%20https:/apnews.com/e2e05fd7e8c8831c5fcccfb551c2db42,https,0,6,0,11,0.33294159007966545,0,0,0,0,1,AS17033,CSL-BEHRING,101403,18,12.3.33
+https://enewsinsight.com/serum-pauses-india-trials-of-covid-vaccine/,https,0,3,0,16,0.4375,0,0,0,0,0,AS13335,CLOUDFLARENET,6024320,1099,104.27.138
+https://www.toscanaoggi.it/Italia/Stop-temporaneo-a-sperimentazione-vaccino-Astrazeneca-Cauda-Gemelli-fa-parte-delle-regole-del-gioco-e-dimostra-serieta-nei-controlli-e-impegno-per-efficacia-e-sicurezza,https,0,3,0,18,0.4048872453080266,0,0,0,0,1,AS203612,Ids & Unitelm Srl,35625,4,185.127.239
+https://www.kannadaprabha.com/nation/2020/sep/10/serum-institute-to-pause-vaccine-trials-in-india-after-drug-controllers-notice-427816.html,https,0,6,0,21,0.4278222322217849,0,0,0,0,1,AS16509,AMAZON-02,3115071,1956,13.226.18
+https://www.pronews.gr/ygeia/907476_sputnik-v-klinikes-dokimes-tin-epomeni-evdomada-se-40000-anthropoys,https,0,3,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.122
+https://everethnews.pl/newsy/wstrzymano-testy-kliniczne-jednej-ze-szczepionek-na-koronawirusa-przyczyna-efekty-uboczne/,https,0,4,0,14,0.404490767971327,0,0,0,0,0,AS48896,dhosting.pl Sp. z o.o.,1863415,1910,109.95.158
+https://bitly.com/3m5d4TU%20https:/who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines,https,0,7,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218688,3,67.199.248
+https://www.correiodopovo.com.br/not%C3%ADcias/geral/minist%C3%A9rio-da-sa%C3%BAde-diz-que-contrato-com-a-astrazeneca-n%C3%A3o-sofrer%C3%A1-altera%C3%A7%C3%A3o-1.478086,https,0,4,0,24,0.40762845169179335,0,0,0,0,2,AS52580,Azion Technologies Ltda.,3350982,14,179.191.185
+https://bitly.com/35mzdqS%20https:/bit.ly/35mzdqS,https,0,4,0,9,0.39624063124512,0,0,0,0,0,AS396982,GOOGLE-PRIVATE-CLOUD,35218076,3,67.199.248
+https://mailchi.mp/pharmaphorum/democrats-unveil-price-plan-targeting-250-big-spend-drugs2309-2246778,https,0,3,0,10,0.36524101648625684,0,0,0,0,0,AS16625,AKAMAI-AS,137220,2,104.98.61
+http://web.archive.org/web/20180926204653/https:/sputniknews.com/analysis/201809261068369350-Ukrainian-Diplomat-Clinton-Operatives-Dirt-Trump/,http,0,8,0,15,0.4383613321088168,0,0,0,0,1,AS7941,INTERNET-ARCHIVE,30849849,3,207.241.226
+https://bioprocessintl.com/bioprocess-insider/deal-making/vmic-to-help-oxford-biomedica-up-capacity-for-astrazeneca-azd1222-deal/,https,0,5,0,18,0.4465539119746932,0,0,0,0,0,AS26496,AS-26496-GO-DADDY-COM-LLC,4616212,1253,166.62.109
+https://www.uttaranchaltoday.com/2020/09/09/astrazeneca-pauses-covid-19-vaccine-trial/,https,0,6,0,24,0.4506735700502533,0,0,0,0,1,AS13335,CLOUDFLARENET,6283553,934,104.28.0
+https://www.coronavirusgripe.com/articulo/noticias/vacuna-oxford-coronavirus-vacuna-astrazeneca-fallida/20200909093219005136.html,https,0,5,0,24,0.4675751972640999,0,0,0,0,1,AS13335,CLOUDFLARENET,4121441,110,172.67.74
+https://notimundo.com.mx/internacional/que-si-y-que-no-puede-detener-los-ensayos-de-una-vacuna/,https,0,4,0,16,0.39445488164154,0,0,0,0,1,AS46606,UNIFIEDLAYER-AS-1,6595,1,162.241.49
+https://www.linkedin.com/feed/update/urn:li:share:6703134168190074880,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.reuters.com/article/us-health-coronavirus-astrazeneca/astrazenecas-covid-19-vaccine-candidate-begins-late-stage-u-s-study-idUSKBN25R2XJ,https,0,4,0,15,0.39873726898430484,0,0,0,0,1,AS16509,AMAZON-02,1934449,1372,52.84.53
+https://quote.rbc.ru/news/article/5f589dbc9a7947539cc10f89,https,0,4,0,12,0.38562031562255994,0,0,0,1,1,AS20848,Rosbusinessconsulting Jsc,59650139,1,185.72.229
+https://newssummedup.com/a/lyez0y,https,0,3,0,16,0.41597744082077,0,0,0,0,0,AS17439,Netmagic Datacenter Mumbai,81590,5,101.53.139
+https://www.linkedin.com/feed/update/urn:li:share:6709424538611929088,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.amna.gr/home/article/486524/Koronoios-I-AstraZeneca-tha-gnorizei-an-to-embolio-tis-einai-apotelesmatiko-os-to-telos-tou-etous,https,0,5,0,11,0.33294159007966545,0,0,0,0,1,AS20940,Akamai International B.V.,4302461,4,23.48.94
+https://www.dw.com/es/astrazeneca-pausa-los-ensayos-cl%C3%ADnicos-de-su-vacuna-deber%C3%ADamos-preocuparnos/a-54869245,https,0,4,0,10,0.29024101218669063,0,0,0,0,1,AS16625,AKAMAI-AS,115713,2,23.62.103
+https://analgeria.com/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%86%D8%AD%D9%88-2-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D8%B1%D8%B9%D8%A9-%D9%85%D9%86-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1/,https,0,3,0,13,0.41683488058186235,0,0,0,0,0,AS16276,OVH SAS,4588623,158,164.132.5
+https://www.cbs17.com/community/health/coronavirus/astrazeneca-has-paused-covid-19-vaccine-trial-twice/0/,https,0,7,0,13,0.37837334212032386,0,0,0,0,1,AS2635,AUTOMATTIC,79944076,140,192.0.66
+http://www.google.com/,http,0,2,0,14,0.35529636541694243,0,1,0,1,1,AS15169,GOOGLE,209330,5,74.125.126
+https://indice7.com/?p=265361,https,1,2,0,11,0.38697440929431765,0,0,0,0,0,AS46606,UNIFIEDLAYER-AS-1,3240092,560,50.87.151
+https://www.copernical.com/news-public/item/18722-2020-08-25-13-56-08,https,0,4,0,18,0.4274227482598221,0,0,0,0,1,AS8560,1&1 Ionos Se,2994552,2556,217.160.0
+https://www.streetinsider.com/FDA/AstraZeneca+(AZN)+vaccine+setback+removes+a+near-term+competitor+from+the+race+-+BMO/17337476.html,https,0,4,0,21,0.43291004103506037,0,0,0,0,1,AS62660,WHISKEYNET,103151281,107,192.225.209
+https://www.ouest-france.fr/sante/virus/coronavirus/vaccin-anti-covid-la-dose-sera-a-moins-de-10-eu-promet-le-laboratoire-sanofi-france-6962001,https,0,5,0,19,0.4470771989837455,0,0,0,0,1,AS16625,AKAMAI-AS,38,2,69.192.52
+https://covid19globalcases.com/sputnik-v-pfizer-and-more-everything-about-the-race-to-find-the-covid-19-vaccine/,https,0,3,0,22,0.4693052342606951,0,0,0,1,0,AS62729,ASMALLORANGE1,377135,223,143.95.80
+https://consensodelmercado.com/bolsas-internacionales/astrazeneca-suspende-temporalmente-los-ensayos-fase-iii-de-su-vacuna-contra-el-covid-19-al-enfermar-un-participante,https,0,3,0,22,0.41248704853381657,0,0,0,0,0,AS8560,1&1 Ionos Se,1697685,1600,217.160.0
+https://www.linkedin.com/feed/update/urn:li:share:6709568657850187776,https,0,4,0,16,0.41597744082077,0,0,0,1,1,AS8068,MICROSOFT-CORP-MSN-AS-BLOCK,2273869086,6,13.107.42
+https://www.id-hub.com/2020/09/09/astrazeneca-vaccine-trial-halted/?utm_campaign=Neuro%20Central&utm_content=139568134&utm_medium=social&utm_source=twitter&hss_channel=tw-3092338265,https,5,6,0,14,0.4156078493373016,0,0,0,1,1,AS13335,CLOUDFLARENET,16607741,72,104.26.14
+https://reduce-weight.in/why-the-astrazeneca-trial-for-a-coronavaccine-was-put-on-hold/,https,0,3,0,16,0.44722744082077,0,0,0,0,0,AS45102,"Alibaba (US) Technology Co., Ltd.",1548,2,47.75.157
+https://www.pronews.gr/kosmos/907509_dimioyrgoi-sputnik-v-dyo-hronia-prostasias-tha-prosferei-emvolio,https,0,3,0,14,0.36877648839927885,0,0,0,0,1,AS13335,CLOUDFLARENET,486280,1,104.27.123
+https://www.eltelegrafo.com.ec/noticias/mundo/8/vacuna-rusa-grupos-prioritarios-coronavirus,https,0,5,0,22,0.423850684897453,0,0,0,0,2,AS13335,CLOUDFLARENET,1309809,45,172.67.71
+https://news.v.daum.net/v/20200819100324271,https,0,3,0,15,0.4154039356509715,0,0,0,0,2,AS7625,Kakao Corp,4559698,2,211.249.221
+https://diarioroatan.com/astrazeneca-incluye-a-peru-en-ensayo-en-fase-3-de-vacuna-contra-el-covid-19/hambrezona,https,0,3,0,16,0.39445488164154,0,0,0,0,0,AS14061,DIGITALOCEAN-ASN,2984,1,192.241.129
+https://consensodelmercado.com/bolsas-internacionales/astrazeneca-ignora-cuanto-tiempo-durara-la-pausa-en-la-investigacion-de-la-vacuna,https,0,3,0,22,0.41248704853381657,0,0,0,0,0,AS8560,1&1 Ionos Se,1697685,1600,217.160.0
+https://prismaradio.gr/2020/09/09/astrazeneca-kalo-neo-i-anastoli-dokimon-toy-emvolioy-gia-ton-koronoio-ypostirizei-o-sypsas/,https,0,6,0,14,0.39775070955127756,0,0,0,0,0,AS24940,Hetzner Online GmbH,620,4,78.46.67
+https://www.lostiempos.com/actualidad/mundo/20200909/candidata-vacuna-astrazeneca-sufre-reves,https,0,5,0,18,0.4135338593709333,0,0,0,0,1,AS63949,"Linode, LLC",1617918,2,45.79.163
+https://covid19globalcases.com/vacuna-de-rusia-contra-el-coronavirus-cientificos-desconfian-de-sputnik-v/,https,0,3,0,22,0.4693052342606951,0,0,0,1,0,AS62729,ASMALLORANGE1,377135,223,143.95.80
+https://www.humanite.fr/covid-19-essai-clinique-en-berne-693416,https,0,2,0,15,0.43207060231763816,0,0,0,0,1,AS19551,INCAPSULA,68381,1,45.60.150
