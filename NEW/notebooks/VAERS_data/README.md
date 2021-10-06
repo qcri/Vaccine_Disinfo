@@ -31,9 +31,9 @@ Total unique URLs extracted from Tweets where AZ mentioned after filtering Twitt
 | https://www.openvaers.com/covid-data | 1362 | 1516       | 681       | 1516  |
 
 
-text: no of unique tweets included the url
+text: no of unique tweeted texts included the url
 
-created_at: no of unique timestamps with tweets included the url
+created_at: no of unique timestamps associated with tweets included the url
 
 author_id: no of unique authors tweeted the url
 
