@@ -2,6 +2,7 @@
 
 Total Tweets in the original dataset: 727,148
 
+Total Tweets where AstraZeneca mentioned: 296,969 (40.84%)
 
 
 
@@ -23,7 +24,7 @@ Total unique URLs extracted from Tweets where AZ mentioned after filtering Twitt
 
 
 
-Feature Vector for URLs
+### Feature Vector for URLs
 
 | url                                  | text | created_at | author_id | twtid |
 |--------------------------------------|------|------------|-----------|-------|
