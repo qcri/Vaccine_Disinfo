@@ -12,7 +12,9 @@ Total URLs extracted from the all Tweets: 240,475
 
 Total unique URLs extracted from all Tweets: 60,181
 
-Total unique URLs after filtering Twitter domain URLs: 17,001
+Total unique URLs extracted after expanding: 59,651
+
+Total unique URLs after filtering Twitter domain URLs: 16,351
 
 Total Tweets with URLs where AstraZeneca mentioned: 63,236 (31.93%)
 
@@ -20,13 +22,15 @@ Total URLs extracted from Tweets where AZ mentioned: 77,556 (32.25%)
 
 Total unique URLs extracted from Tweets where AZ mentioned: 26,337 (43.76%)
 
-Total unique URLs extracted from Tweets where AZ mentioned after filtering Twitter domain URLs: 9,150 (53.82%)
+Total unique URLs extracted from Tweets where AZ mentioned (after expanding): 25,962 (43.52%)
+
+Total unique URLs extracted from Tweets where AZ mentioned after filtering Twitter domain URLs: 8,742 (53.46%)
 
 
 
 ### Feature Vector for URLs
 
-| url                                  | text | created_at | author_id | twtid |
+| expanded_url                         | text | created_at | author_id | twtid |
 |--------------------------------------|------|------------|-----------|-------|
 | https://www.openvaers.com/covid-data | 1362 | 1516       | 681       | 1516  |
 
