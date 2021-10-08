@@ -42,3 +42,19 @@ created_at: no of unique timestamps associated with tweets included the url
 author_id: no of unique authors tweeted the url
 
 twtid: no of unique tweets included the url
+
+
+### Feature Vector for Domains
+
+| resolved_domain                      | text | created_at | author_id | twtid |
+|--------------------------------------|------|------------|-----------|-------|
+| childrenshealthdefense.org           | 7562 | 9258       | 4172      | 9274  |
+
+
+text: no of unique tweeted texts included the domain
+
+created_at: no of unique timestamps associated with tweets included the domain
+
+author_id: no of unique authors tweeted the domain
+
+twtid: no of unique tweets included the domain
