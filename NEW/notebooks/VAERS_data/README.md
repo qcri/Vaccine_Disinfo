@@ -12,6 +12,12 @@ Unique URLs: 15,465
 
 Unique domains: 2980
 
+#### All URLs dataset
+
+all_urls.csv - This dataset contains all the unique URLs (without Twitter domain) [md5sum: 6f7b1e2b67697737ad1044af584c14ad]
+
+expanded_urls.csv - This dataset contains all the unique URLs after expanding [md5sum: 4ee5f5a2bc76482a948478ad0f0484f1]
+
 
 
 ### Feature Vector for URLs
